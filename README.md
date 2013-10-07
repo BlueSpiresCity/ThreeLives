@@ -1,4 +1,0 @@
-ThreeLives
-==========
-
-Survival Horror Game
